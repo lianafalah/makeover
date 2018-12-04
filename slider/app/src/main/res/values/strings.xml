@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Make Over</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+    <string name="menu1">Product</string>
+    <string name="logout">LogOut</string>
+    <string name="login">LogIn</string>
+    <string name="slide_1_title">Free Ongkir</string>
+    <string name="slide_1_desc">Nikmati Layanan Free Ongkir </string>
+
+    <string name="slide_2_title">DISCOUNT</string>
+    <string name="slide_2_desc">Nikmati Promo Discount</string>
+
+    <string name="slide_3_title">HOLIDAY</string>
+    <string name="slide_3_desc">Dapatkan bonus berlibur ke luar negeri</string>
+
+    <string name="slide_4_title">GUIDE</string>
+    <string name="slide_4_desc">Cari Guide Untuk Menemani Perjalananmu Agar  semakin asyik </string>
+</resources>
